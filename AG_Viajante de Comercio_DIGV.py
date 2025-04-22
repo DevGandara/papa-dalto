@@ -38,8 +38,8 @@ def tsp_greedy(distancias, inicio=0):
 
 # Matriz de distancias entre 4 ciudades
 distancias = [
-    [0, 8 , 13, 25],
-    [8, 0, 35, 32 ],
+    [0, 9 , 13, 25],
+    [9, 0, 35, 32 ],
     [13, 35, 0, 40],
     [25, 32, 40, 0]
 ]
